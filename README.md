@@ -1,1 +1,1 @@
-https://casper992.github.io/rsschool-cv/cv
+https://rolling-scopes-school.github.io/casper992/wildlife/
