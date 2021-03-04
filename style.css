@@ -80,7 +80,7 @@ p {
   margin-bottom: 5px;
 }
 
-code {
+.examplecode {
   display: inline-block;
   font-size: 12px;
   color: red;
